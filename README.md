@@ -13,7 +13,7 @@ it's hard for OCR to recognize degraded text image. (OCR Accuracy//original imag
 We will turn the degraded text image (using deep learning) into a text image that ocr can read better.
 It will be public.
 
-before image super resolution, degraded text image's OCR Accuracy is 57%. after our model OCR Accuracy , this image  OCR Accuracy is  65%.
+before image super resolution, degraded text image's OCR Accuracy is 57%. after our model(super resolution) , this image  OCR Accuracy is  65%.
 
 ![kjdrhrd](https://user-images.githubusercontent.com/113492196/201111265-6400d988-0bf8-49c6-bbaf-d9843e6111a3.PNG)
 
